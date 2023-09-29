@@ -5,9 +5,9 @@ let's go with DSA
 🚀✨  _****Following are the GFG Links** **_ :-   
            
             👉🏻 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp    (Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …)                           
-            👉🏻   https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=shm                        (SDE SHEET – A Complete Guide for SDE Preparation)                                               
-            👉🏻     https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions                                         (Practice Problems)                                                                           
-            👉🏻       https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/      (Top 100 Data Structure and Algorithms (DSA) Interview Questions Topic-wise)  
+            👉🏻 https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=shm                        (SDE SHEET – A Complete Guide for SDE Preparation)                                               
+            👉🏻 https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions                                         (Practice Problems)                                                                           
+            👉🏻 https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/      (Top 100 Data Structure and Algorithms (DSA) Interview Questions Topic-wise)  
                                                                           
 🚀✨  _**Must study following topics**_ :-   👉🏻 Array     👉🏻Strings     👉🏻Linked-List     👉🏻Stacks     👉🏻Queues     👉🏻Trees     👉🏻Graphs                                                                                                                                   https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/       (striver's A to Z)                                                                                                           
 🚀✨  _**Must do TOP-50 PROBLEMS**_:-       
