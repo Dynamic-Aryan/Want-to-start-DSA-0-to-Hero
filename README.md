@@ -1,20 +1,30 @@
 # Want-to-start-DSA-0-to-Hero
-**_let's go with DSA_**
- Hey Guys ,what's up ,, i know that nowadays companies are increasing the level of questions in their round,,and employees or students are not able to solve them and 99% of them fail the interviews. The reason for this is that the lack of practice,,as we know that they are solving leetcode problems,,but they don't know the actual concepts to solve the questions,,as it's not necessary to showoff the number of questions on your resume. If you want to crack the interview and to be eligible at the good companies ,I am providing the following links of GFG.                                                                                                        
 
-🚀✨  _****Following are the GFG Links** **_ :- 
-
-    💡(Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …)  
-  👉🏻 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp 
-
-    💡(SDE SHEET – A Complete Guide for SDE Preparation)
-  👉🏻 https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=shm                                                                     
+Hello everyone! 👋
+    I hope you're all doing well. Nowadays, it's becoming increasingly challenging to excel in job interviews and examinations as companies and educational institutions are raising the bar with tougher questions. In fact, many talented individuals find themselves struggling and failing to secure the positions they desire.                                                                                               One key factor contributing to this struggle is the lack of adequate preparation. While it's common for people to focus on solving LeetCode problems, it's equally important to understand the underlying concepts that enable you to tackle a wide range of questions effectively. Remember, it's not about showcasing the sheer number of problems you've solved on your resume; it's about having a deep understanding of the subject matter.                                                                                                                                                                                                     To help you succeed in interviews and examinations, I'd like to share some valuable resources from GeeksforGeeks (GFG). These resources can provide you with the knowledge and skills needed to crack interviews at top-notch companies and perform exceptionally well in your academic pursuits.                                                                                                                             With the right preparation and a strong grasp of core concepts, you can greatly improve your chances of achieving your career goals and excelling in your studies. Best of luck in your endeavors! 🚀💪   
     
-    💡(Practice Problems) 
-  👉🏻 https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions                                                                                                                    
-   
-    💡(Top 100 Data Structure and Algorithms (DSA) Interview Questions Topic-wise)  
-  👉🏻 https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/        
+  🚀✨ Announcement: Valuable GFG Resources for Your Success ✨🚀
+    
+Hello everyone!
+
+Are you ready to take your coding and problem-solving skills to the next level? We understand that acing interviews and excelling in your career or studies can be challenging, but the right resources can make all the difference. Here are some highly recommended GeeksforGeeks (GFG) links that can help you on your journey:
+
+Must-Do Coding Questions for Top Companies: Elevate your coding game with this curated list of questions, handpicked for companies like Amazon, Microsoft, Adobe, and more.
+👉🏻 Must-Do Coding Questions
+
+SDE SHEET – Your Comprehensive SDE Preparation Guide: Get a complete guide to prepare for Software Development Engineer (SDE) roles with this resource.
+👉🏻 SDE SHEET
+
+Practice Problems: Strengthen your skills with a wide range of practice problems that will challenge and enhance your abilities.
+👉🏻 Practice Problems
+
+Top 100 Data Structure and Algorithms (DSA) Interview Questions: Master DSA concepts with this comprehensive list of interview questions, organized by topic.
+👉🏻 Top 100 DSA Interview Questions
+
+Explore these resources to sharpen your knowledge and boost your confidence. Remember, it's not just about the number of problems solved, but the depth of understanding that sets you apart.
+
+Best of luck on your coding journey! 🌟💻📚
+        
                                                                           
 
 🚀✨  _**Must study following topics**_ :-   
