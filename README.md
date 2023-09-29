@@ -72,6 +72,8 @@ Welcome to the **Must-Study Topics and Resources** section! 🌟
 
 To excel in coding, interviews, and technical assessments, it's essential to build a strong foundation in the following topics:
 - Array
+- Recursion
+- Bit Manipulation
 - Strings
 - Linked List
 - Stacks
@@ -83,9 +85,12 @@ To excel in coding, interviews, and technical assessments, it's essential to bui
 ## Recommended Resources
 
 Here are some highly recommended resources to help you master these topics:
+- **First learn some Algorithms** :
+   👉🏻 [Top 10 Algorithms's](https://www.geeksforgeeks.org/algorithms-for-interviews/)
 
 - **Striver's A to Z DSA Course**: This comprehensive course covers all the essential data structures and algorithms topics.
    👉🏻 [Striver's A to Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+  
 
 - **Must-Do Top 50 Problems**: Practice these top 50 problems for each topic to solidify your understanding:
    - [Arrays](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
@@ -96,6 +101,8 @@ Here are some highly recommended resources to help you master these topics:
    - [Trees](https://www.geeksforgeeks.org/top-50-tree-coding-problems-for-interviews/?ref=shm)
    - [Graphs](https://www.geeksforgeeks.org/top-50-graph-coding-problems-for-interviews/?ref=shm)
    - [Dynamic Programming](https://www.geeksforgeeks.org/top-50-dynamic-programming-coding-problems-for-interviews/?ref=shm)
+   - [Recursion Algorithm](https://www.geeksforgeeks.org/top-50-interview-problems-on-recursion-algorithm/)
+   - [Heap](https://www.geeksforgeeks.org/top-50-problems-on-heap-data-structure-asked-in-interviews/)
 
 ## LeetCode and Competitive Programming
 
