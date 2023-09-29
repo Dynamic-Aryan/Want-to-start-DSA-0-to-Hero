@@ -104,6 +104,12 @@ Here are some highly recommended resources to help you master these topics:
    - [Recursion Algorithm](https://www.geeksforgeeks.org/top-50-interview-problems-on-recursion-algorithm/)
    - [Heap](https://www.geeksforgeeks.org/top-50-problems-on-heap-data-structure-asked-in-interviews/)
 
+
+## Recommended Resources
+ Do some more problems of LOVE BABBAR's DSA sheet :
+ - LOVE BABBAR's DSA Sheet:
+   👉🏻 [Love Babbar's Sheet](https://450dsa.com/array)
+ 
 ## LeetCode and Competitive Programming
 
 - **LeetCode**: Solve problems on [LeetCode](https://leetcode.com/) to enhance your problem-solving skills.
