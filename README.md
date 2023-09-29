@@ -78,6 +78,7 @@ To excel in coding, interviews, and technical assessments, it's essential to bui
 - Queues
 - Trees
 - Graphs
+- Dynamic Programming
 
 ## Recommended Resources
 
