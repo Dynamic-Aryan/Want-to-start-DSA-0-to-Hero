@@ -10,7 +10,9 @@ let's go with DSA
             👉🏻       https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/      (Top 100 Data Structure and Algorithms (DSA) Interview Questions Topic-wise)  
                                                                           
 🚀✨  _**Must study following topics**_ :-   👉🏻 Array     👉🏻Strings     👉🏻Linked-List     👉🏻Stacks     👉🏻Queues     👉🏻Trees     👉🏻Graphs                                                                                                                                   https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/       (striver's A to Z)                                                                                                           
-🚀✨  _**Must do TOP-50 PROBLEMS**_:-        👉🏻(arrays)  https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/                                                                                                                                  👉🏻(string)   https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/?ref=shm                                                                                                                       
+🚀✨  _**Must do TOP-50 PROBLEMS**_:-       
+👉🏻(arrays)  https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/                                                                                                                                 
+👉🏻(string)   https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/?ref=shm                                                                                                                       
 👉🏻(Linked List)    https://www.geeksforgeeks.org/top-20-linked-list-interview-question/                                                                                                                                       
 👉🏻(Stacks)   https://www.geeksforgeeks.org/top-50-problems-on-stack-data-structure-asked-in-interviews/                                                                                                                  
 👉🏻(Queues) https://www.geeksforgeeks.org/top-50-problems-on-queue-data-structure-asked-in-sde-interviews/                                                                                                              
@@ -22,7 +24,8 @@ let's go with DSA
  🚀✨   **_Start giving contest after getting some decent confidence in solving problems_**
  🚀✨   **_See guys competitive programming and learning DSA is different_**.
  🚀✨   **_If you want to do competitive programming_**             👉🏻CodeChef   👉🏻Codeforces          are the best sources to practice && also give the contest here on the prescribed time given on the website           
- 🚀✨    **_Codeforces practicing sheet link_**    👉🏻 https://takeuforward.org/interview-experience/strivers-cp-sheet/                 (Must Solve)                  
+ 🚀✨    **_Codeforces practicing sheet link_**    
+ 👉🏻 https://takeuforward.org/interview-experience/strivers-cp-sheet/                 (Must Solve)                  
                    
                                   
                                
