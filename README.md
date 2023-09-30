@@ -39,16 +39,16 @@ This repository is a curated collection of valuable resources to help you excel 
 Explore the following GeeksforGeeks (GFG) links to boost your skills:
 
 1. **Must-Do Coding Questions for Top Companies**: Elevate your coding game with this curated list of questions for companies like Amazon, Microsoft, Adobe, and more.
-   👉🏻 [Must-Do Coding Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp)
+   🪲 [Must-Do Coding Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp)
 
 2. **SDE SHEET – Your Comprehensive SDE Preparation Guide**: Get a complete guide to prepare for Software Development Engineer (SDE) roles with this resource.
-   👉🏻 [SDE SHEET](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=shm)
+   🪲 [SDE SHEET](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=shm)
 
 3. **Practice Problems**: Strengthen your skills with a wide range of practice problems that will challenge and enhance your abilities.
-   👉🏻 [Practice Problems](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions)
+   🪲 [Practice Problems](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions)
 
 4. **Top 100 Data Structure and Algorithms (DSA) Interview Questions**: Master DSA concepts with this comprehensive list of interview questions, organized by topic.
-   👉🏻 [Top 100 DSA Interview Questions](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/)
+   🪲 [Top 100 DSA Interview Questions](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/)
 
 ## How to Use
 
