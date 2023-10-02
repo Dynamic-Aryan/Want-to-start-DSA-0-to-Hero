@@ -129,7 +129,7 @@ Here are some highly recommended resources to help you master these topics:
  -**Must Do Coding Questions Company-wise**:
     👉🏻[All-Company](https://www.geeksforgeeks.org/must-coding-questions-company-wise/)
   
- -**Go with the companies like** 💪:-
+ - **Go with the companies like** 💪:
     -[Facebook](https://www.geeksforgeeks.org/facebookmeta-sde-sheet-interview-questions-and-answers/?ref=ghm)
     -[Amazon](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/?ref=ghm)
     -[Apple](https://www.geeksforgeeks.org/apple-sde-sheet-interview-questions-and-answers/?ref=ghm)
