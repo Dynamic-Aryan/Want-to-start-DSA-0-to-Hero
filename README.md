@@ -85,14 +85,14 @@ To excel in coding, interviews, and technical assessments, it's essential to bui
 ## Recommended Resources
 
 Here are some highly recommended resources to help you master these topics:
-- **First learn some Algorithms** :
+- **First learn some Algorithms💪** :
    👉🏻 [Top 10 Algorithms's](https://www.geeksforgeeks.org/algorithms-for-interviews/)
 
-- **Striver's A to Z DSA Course**: This comprehensive course covers all the essential data structures and algorithms topics.
+- **Striver's A to Z DSA Course💪**: This comprehensive course covers all the essential data structures and algorithms topics.
    👉🏻 [Striver's A to Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
   
 
-- **Must-Do Top 50 Problems**: Practice these top 50 problems for each topic to solidify your understanding:
+- **Must-Do Top 50 Problems💪**: Practice these top 50 problems for each topic to solidify your understanding:
    - [Arrays](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
    - [Strings](https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/?ref=shm)
    - [Linked List](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/)
@@ -112,18 +112,41 @@ Here are some highly recommended resources to help you master these topics:
  
 ## LeetCode and Competitive Programming
 
-- **LeetCode**: Solve problems on [LeetCode](https://leetcode.com/) to enhance your problem-solving skills.
+- **LeetCode💪**: Solve problems on [LeetCode](https://leetcode.com/) to enhance your problem-solving skills.
 
 - **Dynamic Programming**: Practice dynamic programming, which is crucial for coding interviews.
 
-- **Competitive Programming**: If you want to delve into competitive programming, consider platforms like CodeChef and Codeforces. They offer contests and problem-solving opportunities.
+- **Competitive Programming 💪**: If you want to delve into competitive programming, consider platforms like CodeChef and Codeforces. They offer contests and problem-solving opportunities.
    - [CodeChef](https://www.codechef.com/)
    - [Codeforces](https://codeforces.com/)
 
 - **Codeforces Practicing Sheet**: Check out the [Codeforces Practicing Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/) for additional practice. It's a must-solve sheet for competitive programming enthusiasts.
 
-Remember, the path to success in coding and interviews requires dedication, practice, and a deep understanding of core concepts. Best of luck on your journey! 🚀💪
-        
+ Best of luck for this  journey! 🚀💪
+ 
+ ## After this all you have done😊
+ Go with the company wise terminologies 💪 :-
+ -**Must Do Coding Questions Company-wise**:
+    👉🏻[All-Company](https://www.geeksforgeeks.org/must-coding-questions-company-wise/)
+  
+ -**Go with the companies like** 💪:-
+    👉🏻[Facebook](https://www.geeksforgeeks.org/facebookmeta-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[Amazon](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[Apple](https://www.geeksforgeeks.org/apple-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[Netflix](https://www.geeksforgeeks.org/netflix-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[Google](https://www.geeksforgeeks.org/google-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[Wipro](https://www.geeksforgeeks.org/wipro-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[Infosys](https://www.geeksforgeeks.org/infosys-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[TCS](https://www.geeksforgeeks.org/tcs-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[Cognizant](https://www.geeksforgeeks.org/cognizant-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[HCL](https://www.geeksforgeeks.org/hcl-sde-sheet-interview-questions-and-answers/?ref=ghm)
+    👉🏻[FAANG](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=ghm)
+    👉🏻[MASS recruiters](https://www.geeksforgeeks.org/must-do-questions-for-companies-like-tcs-cts-hcl-ibm/?ref=ghm)
+    👉🏻[Product Based](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=ghm)
+    👉🏻[PUZZLES](https://www.geeksforgeeks.org/top-100-puzzles-asked-in-interviews/?ref=ghm)
+
+    ALL DONE
+ 
                                                                           
 
 
