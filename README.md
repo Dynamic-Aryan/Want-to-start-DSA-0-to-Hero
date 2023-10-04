@@ -124,7 +124,7 @@ Here are some highly recommended resources to help you master these topics:
 
  Best of luck for this  journey! 🚀💪
  
- ## After this all you should go with this😊
+ # After this all you should go with this😊
  Go with the company wise terminologies 💪 :-
  -**Must Do Coding Questions Company-wise**:
     👉🏻[All-Company](https://www.geeksforgeeks.org/must-coding-questions-company-wise/)
