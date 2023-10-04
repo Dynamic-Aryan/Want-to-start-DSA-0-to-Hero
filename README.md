@@ -1,4 +1,4 @@
-# Want-to-start-DSA-0-to-Hero
+# Want-to-start-DSA-(I ❤️ you 3000)
 # Welcome to the GFG Resources for Success Repository 🚀✨
 
 Hello everyone! 👋
