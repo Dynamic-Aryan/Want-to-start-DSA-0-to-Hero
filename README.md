@@ -50,6 +50,9 @@ Explore the following GeeksforGeeks (GFG) links to boost your skills:
 4. **Top 100 Data Structure and Algorithms (DSA) Interview Questions**: Master DSA concepts with this comprehensive list of interview questions, organized by topic.
    🪲 [Top 100 DSA Interview Questions](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/)
 
+5. **Also want to practice full code ,,go through this**:
+   🪲 [Compiler Mode Queries](https://www.geeksforgeeks.org/data-structures/)  
+
 ## How to Use
 
 Feel free to explore the resources provided above. It's not just about the number of problems solved but the depth of understanding that sets you apart. Use these resources to sharpen your knowledge and boost your confidence.
