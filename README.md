@@ -1,4 +1,4 @@
-# Want-to-start-DSA-(I ❤️ you 3000)
+# Want-to-practice-DSA🚀🤡
 # Welcome to the GFG Resources for Success Repository 🚀✨
 
 Hello everyone! 👋
